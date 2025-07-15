@@ -1,22 +1,39 @@
-# Bem vindo ao meu perfil 👋
+<h1 align="center">👋 Olá, eu sou o Rikelme Silva</h1>
 
-- 💼 Atualmente Estudo no Senai Paulo Skaf
-- 🌱 Estou no curso de Desenvolvimento De Sistemas
-- 💬 Me pergunte sobre JavaScript
-
-## 🛠️ Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px"/>
-
+<p align="center">
+  Desenvolvedor apaixonado por criar soluções com <strong>React</strong> e <strong>ASP.NET</strong> 💻<br/>
+  Aprendendo e evoluindo todos os dias 🚀<br/>
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+### 🚀 Tecnologias que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SSMS"/>
+</p>
+
+---
+
+### 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rikelme-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikelme-silva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
+
+### ✉️ Contato
+
+- 📧 Email: *[coloque aqui se quiser adicionar]*
+- 💼 LinkedIn: [coloque o link aqui se quiser]
+
+---
+
+<p align="center">Feito com 💙 por Rikelme Silva</p>
