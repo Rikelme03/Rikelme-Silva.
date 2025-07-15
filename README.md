@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil 👋
 
-- 💼 Atualmente trabalho na equipe DQR Tech do Bank BTG
-- 🌱 Estou aprendendo React (pra sempre)
+- 💼 Atualmente Estudo no Senai Paulo Skaf
+- 🌱 Estou no curso de Desenvolvimento De Sistemas
 - 💬 Me pergunte sobre JavaScript
 
 ## 🛠️ Ferramentas e Tecnologias
